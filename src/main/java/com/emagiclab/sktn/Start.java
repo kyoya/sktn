@@ -5,6 +5,7 @@ package com.emagiclab.sktn;
  */
 public class Start {
     public static void main(String[] args){
+        //HELLO
         System.out.println("xxxxxxxx hello");
     }
 }
